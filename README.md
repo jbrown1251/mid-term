@@ -1,1 +1,2 @@
 # mid-term
+This code creates a few different windows that let the user click buttons and type in information. The first two windows let you type in how many books you bought, and the program tells you how many reward points you earned. The last window loads information from a CSV file and shows different data—like calendar dates, buildings, and faculty—when you click the buttons. It basically lets the user interact with information in an easy, menu-style way.
